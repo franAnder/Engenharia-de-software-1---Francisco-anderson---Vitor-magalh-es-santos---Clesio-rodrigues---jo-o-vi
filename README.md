@@ -12,7 +12,7 @@ Professor:
 Francisco anderson, clesio rodrigues, joão victor pereira, paulo ricardo, carlos daniel, vitor magalhães
 
 
-# Sumário: 
+Sumário: 
 
 # Engenharia de Software 
 
