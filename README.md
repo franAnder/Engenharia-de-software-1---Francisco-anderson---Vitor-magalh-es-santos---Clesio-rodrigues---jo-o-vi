@@ -2,7 +2,7 @@ FACIMP - FACULDADE DE IMPERATRIZ
 
 Disciplina - ENGENHARIA DE SOFTWARE
 
-Professor: https://github.com/agenteph
+Professor: Paulo Henrique Sousa Barbosa https://github.com/agenteph
 
 Grupo:Francisco anderson, clesio rodrigues, joão victor pereira, paulo ricardo, carlos daniel, vitor magalhães
 
