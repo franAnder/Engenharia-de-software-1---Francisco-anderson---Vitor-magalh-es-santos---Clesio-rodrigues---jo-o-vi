@@ -9,12 +9,12 @@ Professor:
 
 
 # Grupo:
- [Francisco anderson](https://github.com/franAnder)
- [Clesio rodrigues](https://github.com/clesiocrc)
- [João victor pereira](https://github.com/jvpererinha)
- [Paulo ricardo](https://github.com/PauloRicard0)
- [Carlos daniel](https://github.com/kodagmaster) 
- [Vitor magalhães]
+* [Francisco anderson](https://github.com/franAnder)
+* [Clesio rodrigues](https://github.com/clesiocrc)
+* [João victor pereira](https://github.com/jvpererinha)
+* [Paulo ricardo](https://github.com/PauloRicard0)
+* [Carlos daniel](https://github.com/kodagmaster) 
+* [Vitor magalhães]
 
 
 Sumário: 
