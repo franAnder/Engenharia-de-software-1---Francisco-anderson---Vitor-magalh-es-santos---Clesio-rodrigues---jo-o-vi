@@ -32,17 +32,17 @@ De acordo com Sommerville (2011), o nome "engenharia de software" foi proposto e
  O engenheiro de software deverá definir qual processo de desenvolvimento a ser aplicado em um determinado projeto de software como especificação de requisito não funcional. Inicialmente, terá que indentificar quais as atividaddes que irão compor o desejado processo e, em seguida, definir o sequenciamento das referidas atividades, ou seja, o fluxo do processo.
  As atividades típicas que compõem o processo de desenvolvimento de software são: 
 
-#Levantamento de requisitos:
+# Levantamento de requisitos:
 
-#Análise:
+# Análise:
 
-#Projeto:
+# Projeto:
 
-#Implementação:
+# Implementação:
 
-#Testes:
+# Testes:
 
-#Implantação:
+# Implantação:
 
  3 Modelos de Processo de Software
 
