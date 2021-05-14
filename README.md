@@ -2,7 +2,7 @@
 ![alt text](/facimp.png "Facimp")
 
 
-Disciplina - ENGENHARIA DE SOFTWARE
+Disciplina: ENGENHARIA DE SOFTWARE
 
 Professor: 
 [Paulo Henrique Sousa Barbosa](https://github.com/agenteph)
