@@ -9,7 +9,12 @@ Professor:
 
 
 # Grupo:
-Francisco anderson, clesio rodrigues, joão victor pereira, paulo ricardo, carlos daniel, vitor magalhães
+*[Francisco anderson]
+*[Clesio rodrigues](https://github.com/clesiocrc)
+*[João victor pereira](https://github.com/jvpererinha)
+*[Paulo ricardo](https://github.com/PauloRicard0)
+*[Carlos daniel](https://github.com/kodagmaster) 
+*[Vitor magalhães]
 
 
 Sumário: 
