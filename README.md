@@ -1,4 +1,6 @@
-FACIMP - FACULDADE DE IMPERATRIZ
+# FACIMP - FACULDADE DE IMPERATRIZ
+![alt text](/facimp.png "Facimp")
+
 
 Disciplina - ENGENHARIA DE SOFTWARE
 
