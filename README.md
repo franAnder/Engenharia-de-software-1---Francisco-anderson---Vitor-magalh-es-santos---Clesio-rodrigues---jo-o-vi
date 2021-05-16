@@ -14,7 +14,7 @@ Professor:
 * [João victor pereira](https://github.com/jvpererinha)
 * [Paulo ricardo](https://github.com/PauloRicard0)
 * [Carlos daniel](https://github.com/kodagmaster) 
-* [Vitor magalhães]
+* [Vitor magalhães](https://github.com/vitorfurt)
 
 
 # Sumário: 
