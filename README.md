@@ -34,6 +34,15 @@ De acordo com Sommerville (2011), o nome "engenharia de software" foi proposto e
 
 # Levantamento de requisitos:
  O levantamento de requisitos está ligado diretamente a qualidade de software que será entregue ao usuário final. Ele tem como objetivo fazer a ponte entre o cliente e o programador. Etapa de levantamento de requisitos tem como principal objetivo sincronizar a expectativa do cliente com o produto final, o software que será produzido pelos programadores - reduzindo custos e potencial retrabalho gerado por esses ruídos de comunicação.
+      As principais características do levantamento de requisitos são:
+
+     Se preocupar em buscar informações do cliente para construir um software.
+     Organizar o projeto antes de iniciar qualquer implementação.
+     Entregar um software de qualidade e que atenda de fato às necessidades do usuário.
+ Nesta etapa, são indentificados os requisitos que serão implementados no software projetado. O grande desafio é que o engenheiro de software tenha o mesmo entendimento do negócio que os usuários. A partir desssa conceituação, indentificamos a tipificação de requisitos comumentes utilizada: requisitos funcionais, não funcionais e de dominio.
+ 
+ Requisito funcionais: Estão relacionados com os serviços fornecidos pelo sistema, ou seja, as funcionalidades que estarão disponiveis no software.
+ Requisitos não funcionais: Incluem as restrições operacionais impostas ao software, tais como, o sistema gerenciador de banco de dados, a linguagem de programação, legislação pertinente á compliance, entre outros, bem como os requisitos de qualidade, tais como: confiabilidade, manutenibilidade, usuabilidade e outros.
 
 # Análise:
 
