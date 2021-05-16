@@ -33,6 +33,7 @@ De acordo com Sommerville (2011), o nome "engenharia de software" foi proposto e
  As atividades típicas que compõem o processo de desenvolvimento de software são: 
 
 # Levantamento de requisitos:
+ O levantamento de requisitos está ligado diretamente a qualidade de software que será entregue ao usuário final. Ele tem como objetivo fazer a ponte entre o cliente e o programador. Etapa de levantamento de requisitos tem como principal objetivo sincronizar a expectativa do cliente com o produto final, o software que será produzido pelos programadores - reduzindo custos e potencial retrabalho gerado por esses ruídos de comunicação.
 
 # Análise:
 
