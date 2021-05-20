@@ -1,0 +1,53 @@
+Engenharia de Software e Requisitos
+
+Vimos na introdução que se busca cada vez mais o apoio dos fundamentos da engenharia de software no desenvolvimento de sistemas. Entendemos engenharia de software como sendo, de acordo com o IEEE, a aplicação de uma abordagem sistemática, disciplinada e quantificável no desenvolvimento, operação e manutenção de software. Sistemática por que parte do princípio de que existe um processo de desenvolvimento definindo as atividades que deverão ser executadas. Disciplinada por que parte do princípio de que os processos definidos serão seguidos. Quantificável por que se deve definir um conjunto de medidas a serem extraídas do processo durante o desenvolvimento de forma que as tomadas de decisão relacionadas ao desenvolvimento do software (por exemplo, melhoria de processo) sejam embasadas em dados reais, e não em “achismos”. Alguns de seus principais objetivos são:
+
+Qualidade de software;
+Produtividade no desenvolvimento, operação e manutenção de software;
+Permitir que profissionais tenham controle sobre o desenvolvimento de software dentro de custos, prazos e níveis de qualidade desejados.
+Entretanto, o cenário de desenvolvimento de software atual e o cenário idealizado junto à engenharia de software ainda estão distantes. Vários fatores contribuem para isso, podemos citar dois:
+
+O não uso dos fundamentos da engenharia de software para apoiar as atividades do desenvolvimento;
+Isso tem diversas conseqüências. Gostaríamos de destacar neste artigo o crescente custo com manutenção dos sistemas. Consideramos como manutenção neste artigo como sendo qualquer retrabalho (em nível de requisitos, projeto, codificação, teste) causado por uma definição do domínio do problema mal elaborada nas fases iniciais do desenvolvimento.O mau uso dos fundamentos da engenharia de software para apoiar as atividades do desenvolvimento. 
+
+Requisitos
+Existem diferentes definições encontradas na literatura técnica para requisitos:
+
+Um requisito é uma característica do sistema ou a descrição de algo que o sistema é capaz de realizar para atingir os seus objetivos;
+As descrições das funções e restrições são os requisitos do sistema;
+Um requisito é uma propriedade que o software deve exibir para resolver algum problema no mundo real;
+Uma condição ou uma capacidade que deve ser alcançada ou estar presente em um sistema para satisfazer um contrato, padrão, especificação ou outro documento formalmente imposto...
+Percebe-se que as citações encontradas definem o mesmo conceito sob diferentes perspectivas. Podemos entender requisitos como sendo o conjunto de necessidades explicitadas pelo cliente que deverão ser atendidas para solucionar um determinado problema do negócio no qual o cliente faz parte. É importante estar atento para esta definição: embora o requisito seja definido pelo cliente, nem sempre o que o cliente quer é o que o negócio precisa. Cabe à equipe de consultores identificar a real necessidade do negócio.
+
+Neste contexto, requisitos são importantes para:
+
+Estabelecer uma base de concordância entre o cliente e o fornecedor sobre o que o software fará;
+Fornecer uma referência para a validação do produto final;
+Reduzir o custo de desenvolvimento (como vimos anteriormente, requisitos mal definidos causam retrabalho).
+Entendida a definição de requisitos, é preciso conhecer seus tipos.
+
+Requisitos funcionais
+São requisitos diretamente ligados a funcionalidade do software, descrevem as funções que o software deve executar. Alguns exemplos são:
+
+O software deve permitir o cadastro de clientes;
+O software deve permitir a geração de relatórios sobre o desempenho de vendas no semestre;
+O software deve permitir o pagamento das compras através de cartão de crédito.
+Requisitos não funcionais
+São requisitos que expressam condições que o software deve atender ou qualidades específicas que o software deve ter. Em vez de informar o que o sistema fará, os requisitos não-funcionais colocam restrições no sistema. Alguns exemplos são:
+
+O software deve ser compatível com os browsers IE (versão 5.0 ou superior) e Firefox (1.0 ou superior);
+O software deve garantir que o tempo de retorno das consultas não seja maior do que 5 segundos.
+Requisitos de domínio
+São requisitos derivados do domínio da aplicação e descrevem características do sistema e qualidades que refletem o domínio. Podem ser requisitos funcionais novos, restrições sobre requisitos existentes ou computações específicas. Dois exemplos de requisitos do domínio são:
+
+O calculo da média final de cada aluno é dado pela fórmula: (Nota1 * 2 + Nota2 * 3)/5;
+Um aluno pode se matricular em uma disciplina desde que ele tenha sido aprovado nas disciplinas consideradas pré-requisitos.
+A partir da próxima seção apresentaremos os conceitos envolvidos na engenharia de requisitos.
+
+Engenharia de Requisitos
+Existem diferentes definições encontradas na literatura técnica para engenharia de requisitos:
+
+Termo usado para descrever as atividades relacionadas à investigação e definição de escopo de um sistema de software;
+Processo sistemático de desenvolvimento de requisitos através de um processo cooperativo de análise onde os resultados das observações são codificados em uma variedade de formatos e a acurácia das observações é constantemente verificada;
+Processo de descobrir, analisar, documentar e verificar as funções e restrições do sistema.
+Embora coerentes, estas definições podem ser melhoradas. Perceba que elas referem-se apenas às atividades relacionadas à produção de requisitos. Entretanto, nada é dito a respeito da gerência destas atividades, também conhecida como gerência de requisitos. Com isto em mente, podemos evoluir a definição de engenharia de requisitos para: termo usado para descrever as atividades relacionadas à produção (levantamento, registro, validação e verificação) e gerência (controle de mudanças, gerência de configuração, rastreabilidade, gerência de qualidade dos requisitos) de requisitos. 
