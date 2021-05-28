@@ -23,3 +23,4 @@
   <p><b><a href="">4. Requisitos de Software e Engenharia de Requisitos</a></b></p>
   <p><b><a href="">5. Tipos de manutenção: CORRETIVA, ADAPTATIVA, PERFECTIVA. O conceito de manutenibilidade.</a></b></p>
   <p><b><a href="">6. Métricas de processo x Métricas de produto</a></b></p>
+  <p><b><a href="">7. Diagramas de UML em Engenharia de Software</a></b></p>
