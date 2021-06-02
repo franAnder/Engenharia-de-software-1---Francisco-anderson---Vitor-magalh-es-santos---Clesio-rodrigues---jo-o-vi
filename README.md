@@ -23,5 +23,5 @@
   <p><b><a href="https://github.com/franAnder/Engenharia-de-software-FACIMP/wiki/4.-Requisitos-de-Software-e-Engenharia-de-Requisitos">4. Requisitos de Software e Engenharia de Requisitos</a></b></p>
   <p><b><a href="https://github.com/franAnder/Engenharia-de-software-FACIMP/wiki/5-Tipos-de-manuten%C3%A7%C3%A3o:-CORRETIVA,-ADAPTATIVA,-PERFECTIVA.-O-conceito-de-manutenibilidade.">5. Tipos de manutenção: CORRETIVA, ADAPTATIVA, PERFECTIVA. O conceito de manutenibilidade.</a></b></p>
   <p><b><a href="https://github.com/franAnder/Engenharia-de-software-FACIMP/wiki/6-M%C3%A9tricas-de-processo-x-M%C3%A9tricas-de-produto">6. Métricas de processo x Métricas de produto</a></b></p>
-  <p><b><a href="">7. Diagramas de UML em Engenharia de Software</a></b></p>
+  <p><b><a href="https://github.com/franAnder/Engenharia-de-software-FACIMP/wiki/7-Diagramas-de-UML-em-Engenharia-de-Software">7. Diagramas de UML em Engenharia de Software</a></b></p>
   <p><b><a href="">8. Diagramas</a></b></p>
